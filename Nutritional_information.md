@@ -1471,7 +1471,7 @@ This document outlines the Tolerable Upper Intake Levels (TUL) for various nutri
 - **Fluoride**: 10 mg/d
 - **Iodine**: 1100 µg/d
 - **Iron**: 45 mg/d
-- **Magnesium**: 350 mg/d
+- **Magnesium**: 350 mg/d ("For supplements only")
 - **Manganese**: 11 mg/d
 - **Molybdenum**: 2000 µg/d
 - **Nickel**: 1 mg/d
